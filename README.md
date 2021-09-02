@@ -27,8 +27,8 @@
  
 <p align="left">
 <a href="https://github.com/gsillis">
-<img height="151em" width="480cm" src="https://github-readme-stats.vercel.app/api?username=gsillis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-<img height="151em" width="480cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsillis&layout=compact&langs_count=7&theme=tokyonight"/>
+<img  width="298cm" src="https://github-readme-stats.vercel.app/api?username=gsillis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+<img  width="356cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsillis&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 </a>
 </div>
