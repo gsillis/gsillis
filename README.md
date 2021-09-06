@@ -2,8 +2,6 @@
 
 ### Boas-vindas! Eu sou a Gabriela. 👋
 
-<p>Em transição de carreira para desenvolvimento mobile iOS, buscando oportunidades de nível jr.</p>
-
 
 <div>
 <b>Possuo conhecimentos em:</b>
