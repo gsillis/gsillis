@@ -1,22 +1,20 @@
 
 
-### Boas-vindas! Eu sou a Gabriela. 👋
+<h1> Hi, I'm Gaby Sillis! <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="70"></h2>
 
 
 <div>
-<b>Possuo conhecimentos em:</b>
+ 
+### Skills <img src="https://media.giphy.com/media/ZXwYyF6sUenEt3UDvZ/giphy.gif" width="30">
  
  <p align="left">
- <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
- <img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white"> 
- <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" width="70">
- <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" width="82"> 
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
- <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">
- <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
- <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></p>
+ <img src="https://img.shields.io/badge/-Swift-3D86DC?logo=swift&logoColor=white"  height="25">
+ <img src="https://img.shields.io/badge/-iOS-3D86DC"  height="25">
+ <img src="https://img.shields.io/badge/-Xcode-3D86DC?logo=xcode&logoColor=white"  height="25"> 
+ <img src="https://img.shields.io/badge/-Git-3D86DC?logo=git&logoColor=white"  height="25"> 
+ <img src="https://img.shields.io/badge/-Figma-3D86DC?logo=figma&logoColor=white"  height="25">
+ <img src="https://img.shields.io/badge/-Adobe%20Lightroom-3D86DC?logo=adobe-lightroom&logoColor=white"  height="25">
+ <img src="https://img.shields.io/badge/-Adobe%20Premiere-3D86DC?logo=adobe-premiere-pro&logoColor=white" height="25">
 
 </div>
 
@@ -35,11 +33,13 @@
   ##
   
  <div>
-  <b>Contato</b>
+ 
+  ### Contact <img src="https://media.giphy.com/media/yTFemEJxmeW2YLOT6p/giphy.gif" width="50">
+ 
  <p>
- <a href="https://www.linkedin.com/in/gabrielasillis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.behance.net/gsillis" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sillisgabriela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gabrielasillis/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-3D86DC?logo=linkedin" height="25" target="_blank"></a> 
+ <a href="https://www.behance.net/gsillis" target="_blank"><img src="https://img.shields.io/badge/-Behance-3D86DC?logo=behance" height="25" target="_blank"></a> 
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sillisgabriela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-E--mail-3D86DC?logo=gmail&logoColor=white"  height="25" target="_blank"></a>
  </p>
 
  </div>
