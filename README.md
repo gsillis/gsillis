@@ -5,7 +5,7 @@
 
 <div>
  
-### Skills <img src="https://media.giphy.com/media/ZXwYyF6sUenEt3UDvZ/giphy.gif" width="30">
+### Technologies & Tools <img src="https://media.giphy.com/media/ZXwYyF6sUenEt3UDvZ/giphy.gif" width="30">
  
  <p align="left">
  <img src="https://img.shields.io/badge/-Swift-3D86DC?logo=swift&logoColor=white"  height="25">
