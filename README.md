@@ -39,10 +39,5 @@
  <p>
  <a href="https://www.linkedin.com/in/gabrielasillis/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-3D86DC?logo=linkedin" height="25" target="_blank"></a> 
  <a href="https://gabsillis.medium.com" target="_blank"><img src="https://img.shields.io/badge/-Medium-3D86DC?logo=medium" height="25" target="_blank"></a> 
- <a href="https://www.behance.net/gsillis" target="_blank"><img src="https://img.shields.io/badge/-Behance-3D86DC?logo=behance" height="25" target="_blank"></a> 
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sillisgabriela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-E--mail-3D86DC?logo=gmail&logoColor=white"  height="25" target="_blank"></a>
  </p>
-
- </div>
-  
-![Snake animation](https://github.com/gsillis/gsillis/blob/output/github-contribution-grid-snake.svg)
