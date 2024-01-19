@@ -1,6 +1,9 @@
 
 
 <h1> Hi, I'm Gaby Sillis! <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="70"></h2>
+<p>
+I'm an iOS Developer with over 2 years of experience in Swift, SwiftUI, MVVM, MVC, VIP, and Unit Tests. Currently, I'm studying Computer Science using Python
+</p>
 
 ##
 
